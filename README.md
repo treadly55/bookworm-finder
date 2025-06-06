@@ -6,7 +6,7 @@ A prototype Progressive Web App (PWA) that provides intelligent book recommendat
 
 ---
 
-![Bookworm App Screenshot](https://i.imgur.com/your-screenshot-url.png)
+![Bookworm App Screenshot]("https://i.ibb.co/VWg46zHb/Frame-8.png")
 *(**Action:** Take a screenshot of your app and replace the link above. You can upload images to GitHub directly or use a service like Imgur.)*
 
 ## About The Project
